@@ -1,0 +1,380 @@
+Start testing: Feb 26 19:49 MSK
+----------------------------------------------------------
+1/25 Testing: test1
+1/25 Test: test1
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test1.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test1" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test1" end time: Feb 26 19:49 MSK
+"test1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/25 Testing: test2
+2/25 Test: test2
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test2.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test2" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test2" end time: Feb 26 19:49 MSK
+"test2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/25 Testing: test4
+3/25 Test: test4
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test4.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test4" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test4" end time: Feb 26 19:49 MSK
+"test4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/25 Testing: testReplaceExisting
+4/25 Test: testReplaceExisting
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/testReplaceExisting.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"testReplaceExisting" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testReplaceExisting" end time: Feb 26 19:49 MSK
+"testReplaceExisting" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/25 Testing: test_cast
+5/25 Test: test_cast
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test_cast.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test_cast" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_cast" end time: Feb 26 19:49 MSK
+"test_cast" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/25 Testing: test_charcase
+6/25 Test: test_charcase
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test_charcase.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test_charcase" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_charcase" end time: Feb 26 19:49 MSK
+"test_charcase" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/25 Testing: test_compare
+7/25 Test: test_compare
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test_compare.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test_compare" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_compare" end time: Feb 26 19:49 MSK
+"test_compare" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/25 Testing: test_deep_copy
+8/25 Test: test_deep_copy
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test_deep_copy.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test_deep_copy" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_deep_copy" end time: Feb 26 19:49 MSK
+"test_deep_copy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/25 Testing: test_double_serializer
+9/25 Test: test_double_serializer
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test_double_serializer.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test_double_serializer" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_double_serializer" end time: Feb 26 19:49 MSK
+"test_double_serializer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/25 Testing: test_float
+10/25 Test: test_float
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test_float.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test_float" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_float" end time: Feb 26 19:49 MSK
+"test_float" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/25 Testing: test_int_add
+11/25 Test: test_int_add
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test_int_add.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test_int_add" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_int_add" end time: Feb 26 19:49 MSK
+"test_int_add" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/25 Testing: test_int_get
+12/25 Test: test_int_get
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test_int_get.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test_int_get" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_int_get" end time: Feb 26 19:49 MSK
+"test_int_get" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/25 Testing: test_locale
+13/25 Test: test_locale
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test_locale.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test_locale" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_locale" end time: Feb 26 19:49 MSK
+"test_locale" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/25 Testing: test_null
+14/25 Test: test_null
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test_null.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test_null" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_null" end time: Feb 26 19:49 MSK
+"test_null" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/25 Testing: test_parse
+15/25 Test: test_parse
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test_parse.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test_parse" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_parse" end time: Feb 26 19:49 MSK
+"test_parse" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/25 Testing: test_parse_int64
+16/25 Test: test_parse_int64
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test_parse_int64.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test_parse_int64" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_parse_int64" end time: Feb 26 19:49 MSK
+"test_parse_int64" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/25 Testing: test_printbuf
+17/25 Test: test_printbuf
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test_printbuf.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test_printbuf" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_printbuf" end time: Feb 26 19:49 MSK
+"test_printbuf" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/25 Testing: test_set_serializer
+18/25 Test: test_set_serializer
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test_set_serializer.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test_set_serializer" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_set_serializer" end time: Feb 26 19:49 MSK
+"test_set_serializer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/25 Testing: test_set_value
+19/25 Test: test_set_value
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test_set_value.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test_set_value" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+12.300000000000001
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_set_value" end time: Feb 26 19:49 MSK
+"test_set_value" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/25 Testing: test_strerror
+20/25 Test: test_strerror
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test_strerror.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test_strerror" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_strerror" end time: Feb 26 19:49 MSK
+"test_strerror" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/25 Testing: test_util_file
+21/25 Test: test_util_file
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test_util_file.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test_util_file" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_util_file" end time: Feb 26 19:49 MSK
+"test_util_file" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/25 Testing: test_visit
+22/25 Test: test_visit
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test_visit.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test_visit" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+ERROR: invalid return value from json_c_visit userfunc: 100
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_visit" end time: Feb 26 19:49 MSK
+"test_visit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/25 Testing: test_object_iterator
+23/25 Test: test_object_iterator
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test_object_iterator.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test_object_iterator" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_object_iterator" end time: Feb 26 19:49 MSK
+"test_object_iterator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/25 Testing: test_json_pointer
+24/25 Test: test_json_pointer
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test_json_pointer.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test_json_pointer" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_json_pointer" end time: Feb 26 19:49 MSK
+"test_json_pointer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/25 Testing: test_json_patch
+25/25 Test: test_json_patch
+Command: "/home/fermematch/Documents/llp-lab3/json-c/tests/test_json_patch.test"
+Directory: /home/fermematch/Documents/llp-lab3/json-c-build/tests
+"test_json_patch" start time: Feb 26 19:49 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_json_patch" end time: Feb 26 19:49 MSK
+"test_json_patch" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 26 19:49 MSK

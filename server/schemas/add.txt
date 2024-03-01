@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "qtype": {
+          "type": "integer"
+        },
+        "vid": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "qtype",
+        "vid"
+      ]
+    },
+    {
+      "type": "array",
+      "items": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "integer"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "integer"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "number"
+        }
+      ]
+    }
+  ]
+}
